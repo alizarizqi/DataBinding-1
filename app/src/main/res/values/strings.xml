@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">08-databinding-alizarizqi</string>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Lain-lain</item>
+    </string-array>
+
+    <string-array name="pendidikan">
+        <item>Tidak Lulus SD</item>
+        <item>SD</item>
+        <item>SLTP</item>
+        <item>SMA</item>
+        <item>DIPLOMA</item>
+        <item>Sarjana Muda</item>
+        <item>Sarjana</item>
+        <item>Magister</item>
+        <item>Doktor</item>
+    </string-array>
+
+    <string-array name="akreditasi">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>Belum Terakreditasi</item>
+    </string-array>
+    <string-array name="jurusan">
+        <item>SMA IPA</item>
+        <item>SMA IPS</item>
+        <item>SMA BAHASA</item>
+        <item>SMK EKONOMI</item>
+        <item>SMK TEKNIK</item>
+        <item>SMK KETRAMPILAN</item>
+        <item>SMF</item>
+        <item>LAIN-LAIN</item>
+    </string-array>
+</resources>
